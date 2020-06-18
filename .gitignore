@@ -1,0 +1,12 @@
+.settings/
+target/
+.idea/
+*.iml
+.project
+.classpath
+.target
+node_modules/
+module-min/
+*/WebRoot/WEB-INF/classes/*
+*/out/*
+.metadata/
